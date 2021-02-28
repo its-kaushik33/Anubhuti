@@ -1,0 +1,33 @@
+/* Removing Default Margins And Paddings */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global Styling */
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Contact Banner */
+.contact-banner {
+    background-color: #0b3a09;
+    color: #fff;
+    height: 3vh;
+}
+
+/* Navbar */
+.cstm-navbar {
+    background-color: #0b3a09;
+}
+
+/* Welcome Banner */
+.welcome-banner {
+    background-color: #fed03d;
+    height: 10vh;
+}
+.welcome-text {
+    text-align: center;
+    color: #333333 ;
+    font-size: 2.5rem;
+}
