@@ -14,8 +14,6 @@ body {
     background-color: #0b3a09;
     color: rgba(255, 255, 255, 0.7);
 }
-.contact-phone-nums {
-}
 .contact-mail {
     display: flex;
     justify-content: center;
