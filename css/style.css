@@ -12,8 +12,17 @@ body {
 /* Contact Banner */
 .contact-banner {
     background-color: #0b3a09;
-    color: #fff;
-    height: 3vh;
+    color: rgba(255, 255, 255, 0.7);
+}
+.contact-phone-nums {
+}
+.contact-mail {
+    display: flex;
+    justify-content: center;
+}
+.contact-social-icons {
+    display: flex;
+    justify-content: flex-end;
 }
 
 /* Navbar */
