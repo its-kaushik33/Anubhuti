@@ -67,3 +67,23 @@ body {
 .para {
     line-height: 2.0rem;
 }
+
+/* Association Section */
+.association-section {
+}
+.association-heading {
+    font-size: 2.5rem;
+    text-align: center;
+}
+.association-logos-container {
+    display: flex;
+    justify-content: center;
+}
+.association-logo {
+    height: 250px;
+    width: 295px;
+}
+.logos {
+    height: 100%;
+    width: 100%;
+}
