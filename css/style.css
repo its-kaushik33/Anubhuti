@@ -31,10 +31,39 @@ body {
 /* Welcome Banner */
 .welcome-banner {
     background-color: #fed03d;
+    display: flex;
     height: 10vh;
+    align-items: center;
+    justify-content: center;
 }
 .welcome-text {
     text-align: center;
     color: #333333 ;
     font-size: 2.5rem;
+}
+
+/* Introductory Banner */
+.introductory-banner {
+
+}
+.profile-image-div {
+    max-height: 301px;
+    max-width: 400px;
+}
+.profile-image {
+    height: 100%;
+    width: 100%;
+}
+.introductory-text {
+    color: #333333;
+}
+.intro {
+    text-align: center;
+}
+.name {
+    font-size: 2.0rem;
+    text-align: center;
+}
+.para {
+    line-height: 2.0rem;
 }
